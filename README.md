@@ -49,7 +49,7 @@
 - [x] [如何实现 MySQL 的读写分离？MySQL 主从复制原理是啥？如何解决 MySQL 主从同步的延时问题？](/docs/high-concurrency/mysql-read-write-separation.md)
 
 ### 高并发系统
-- [如何设计一个高并发系统？](/docs/high-concurrency/high-concurrency-design.md)
+- [x] [如何设计一个高并发系统？](/docs/high-concurrency/high-concurrency-design.md)
 
 ## 分布式系统
 ### [面试连环炮](/docs/distributed-system/distributed-system-interview.md)
